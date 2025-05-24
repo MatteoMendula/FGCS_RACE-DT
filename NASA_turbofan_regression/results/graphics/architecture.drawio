@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2023-08-10T00:06:47.168Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7fyAWlpH3bGzl6DQerXB" version="21.6.6" type="github">
+  <diagram name="Page-1" id="W3v74b4bQrCMuekNUqNN">
+    <mxGraphModel dx="3204" dy="2642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PACu3iYs8KgdIgIKvJxA-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="565" y="800" width="385" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PACu3iYs8KgdIgIKvJxA-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-40" width="385" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PACu3iYs8KgdIgIKvJxA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="230" width="585" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="joi99QsfcVwyWLLFJkFc-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://developer-blogs.nvidia.com/wp-content/uploads/2019/03/Jetson-Nano-isometric.png;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="637.4" width="240" height="162.6" as="geometry" />
+        </mxCell>
+        <mxCell id="joi99QsfcVwyWLLFJkFc-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/186/186239.png;" parent="1" vertex="1">
+          <mxGeometry x="620" y="60" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="joi99QsfcVwyWLLFJkFc-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20221127/ourmid/pngtree-raspberry-pie-development-board-png-image_6483143.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="730" width="207" height="136.23" as="geometry" />
+        </mxCell>
+        <mxCell id="joi99QsfcVwyWLLFJkFc-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/5969/5969184.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="820" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="PACu3iYs8KgdIgIKvJxA-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://developer.download.nvidia.com/embedded/images/jetsonAgxOrin/getting_started/jaodk_1024px.png;" vertex="1" parent="1">
+          <mxGeometry x="950" y="240" width="344" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="PACu3iYs8KgdIgIKvJxA-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/4698/4698850.png;" vertex="1" parent="1">
+          <mxGeometry x="2174" y="280" width="292" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="PACu3iYs8KgdIgIKvJxA-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=5;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="140" as="sourcePoint" />
+            <mxPoint x="920" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PACu3iYs8KgdIgIKvJxA-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=5;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="550" as="sourcePoint" />
+            <mxPoint x="660" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

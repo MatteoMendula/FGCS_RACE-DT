@@ -1,0 +1,13 @@
+{
+    "layer_1": {
+        "units": 50,
+        "RC_node_type": "IPESN",
+        "sr": 0.1362429425054205,
+        "lr": 1.0,
+        "input_scaling": 0.05879513034994092,
+        "connectivity": 0.5,
+        "activation": "sigmoid",
+        "mu": 0.0,
+        "learning_rate": 5.1203531461755556e-05
+    }
+}

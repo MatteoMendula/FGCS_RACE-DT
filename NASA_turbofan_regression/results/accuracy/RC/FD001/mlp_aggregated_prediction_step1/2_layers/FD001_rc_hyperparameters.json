@@ -1,0 +1,22 @@
+{
+    "layer_1": {
+        "units": 5,
+        "RC_node_type": "IPESN",
+        "sr": 0.49080791024640225,
+        "lr": 1.0,
+        "input_scaling": 0.20507583795564663,
+        "connectivity": 0.5,
+        "activation": "tanh",
+        "mu": 0.0,
+        "learning_rate": 0.0056216973192825094
+    },
+    "layer_2": {
+        "units": 50,
+        "RC_node_type": "ESN",
+        "sr": 0.41411136510459223,
+        "lr": 0.1,
+        "input_scaling": 0.22525274106278195,
+        "connectivity": 0.1,
+        "activation": "tanh"
+    }
+}

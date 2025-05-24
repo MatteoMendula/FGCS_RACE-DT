@@ -1,0 +1,20 @@
+{
+    "layer_1": {
+        "units": 50,
+        "RC_node_type": "ESN",
+        "sr": 0.7035967700308517,
+        "lr": 0.14844903626455386,
+        "input_scaling": 1.5746894402166793,
+        "connectivity": 0.16477440306359384,
+        "activation": "tanh"
+    },
+    "layer_2": {
+        "units": 5,
+        "RC_node_type": "ESN",
+        "sr": 0.2534340096616877,
+        "lr": 0.3540990323376393,
+        "input_scaling": 1.0184522164097658,
+        "connectivity": 0.43305447106715744,
+        "activation": "tanh"
+    }
+}

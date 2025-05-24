@@ -1,0 +1,2 @@
+final_mlp_training_time,r_squared,rmse,hp_search_time,model_name,n_model_parameters_readout,n_model_parameters_total,input_dim,n_layers_rc
+405.36947894096375,0.20790059732112787,48.52615766339516,6213.191102266312,RCPredNet_Aggregated_MLP_FD004,5377,5377,7,2

@@ -1,0 +1,11 @@
+{
+    "layer_1": {
+        "units": 50,
+        "RC_node_type": "ESN",
+        "sr": 0.1977193153148398,
+        "lr": 1.0,
+        "input_scaling": 0.18504070001252113,
+        "connectivity": 0.01,
+        "activation": "sigmoid"
+    }
+}
