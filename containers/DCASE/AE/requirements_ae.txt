@@ -1,0 +1,6 @@
+numpy
+librosa
+reservoirpy
+scikit-learn
+pandas
+torch

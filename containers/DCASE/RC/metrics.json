@@ -1,0 +1,52 @@
+{
+  "command_executed": "sudo time docker build -t race .",
+  "build": {
+    "cpu_time": {
+      "user_seconds": 0.01,
+      "system_seconds": 0.01,
+      "total_cpu_seconds": 0.61
+    },
+    "elapsed_time_seconds": 143.89,
+    "elapsed_time_formatted": "2:23.89",
+    "cpu_percentage": "0%",
+    "memory_usage_kilobytes": {
+      "average_text_segment": 0,
+      "average_data_segment": 0,
+      "maximum_resident_set_size": 52992
+    },
+    "io_operations": {
+      "filesystem_inputs": 176,
+      "filesystem_outputs": 24
+    },
+    "page_faults": {
+      "major_page_faults": 1,
+      "minor_page_faults": 14025
+    },
+    "swaps": 0,
+    "footprint_bytes": 573 
+  },
+  "instantiation": {
+    "cpu_time": {
+      "user_seconds": 0.01,
+      "system_seconds": 0.01,
+      "total_cpu_seconds": 0.02
+    },
+    "elapsed_time_seconds": 1.25,
+    "elapsed_time_formatted": "0:01.25",
+    "cpu_percentage": "1%",
+    "memory_usage_kilobytes": {
+      "average_text_segment": 0,
+      "average_data_segment": 0,
+      "maximum_resident_set_size": 27136
+    },
+    "io_operations": {
+      "filesystem_inputs": 0,
+      "filesystem_outputs": 0
+    },
+    "page_faults": {
+      "major_page_faults": 0,
+      "minor_page_faults": 2801
+    },
+    "swaps": 0
+  }
+}

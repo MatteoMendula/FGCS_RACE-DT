@@ -1,0 +1,2 @@
+units,RC_node_type,sr,lr,input_scaling,connectivity,activation
+50,ESN,0.10952927997026989,0.6625277071704075,0.2737951650466434,0.18862546648925632,tanh

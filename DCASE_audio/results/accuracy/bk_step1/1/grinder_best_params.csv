@@ -1,0 +1,2 @@
+units,RC_node_type,sr,lr,input_scaling,connectivity,activation
+500,ESN,0.24876067746630445,0.7957346846091085,0.23012826922840282,0.3978802017044214,sigmoid

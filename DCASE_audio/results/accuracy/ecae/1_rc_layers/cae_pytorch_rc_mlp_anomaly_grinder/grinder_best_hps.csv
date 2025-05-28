@@ -1,0 +1,2 @@
+units,RC_node_type,sr,lr,input_scaling,connectivity,activation,mu,learning_rate
+5,IPESN,0.5390843048992874,0.6709982959588338,0.17766205398610993,0.01,tanh,0.2,0.0018067318689967973
