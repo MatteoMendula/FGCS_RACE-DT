@@ -1,0 +1,11 @@
+{
+    "hp_loading_time": 0.00015234947204589844,
+    "start_time_mlp_training": 1748020889.8156085,
+    "end_time_mlp_training": 1748020922.528974,
+    "total_mlp_training_time": 32.71336555480957,
+    "final_mlp_prediction_time_test": 0.0016636848449707031,
+    "RC_aggregation_test_time": 0.05820345878601074,
+    "total_script_execution_time": 46.84560537338257,
+    "overall_script_start_time_epoch": 1748020875.7453837,
+    "overall_script_end_time_epoch": 1748020922.590989
+}
