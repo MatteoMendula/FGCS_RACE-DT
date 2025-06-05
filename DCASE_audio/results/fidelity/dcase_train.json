@@ -1,0 +1,114 @@
+{
+    "fan": {
+        "AENet Mel": 512.5418264865875,
+        "AENet MFCC": 498.7475550174713,
+        "E-CAE RC 1 RC": 21.566579341888428,
+        "E-CAE RC 2 RC": 41.65724492073059,
+        "RACE-DT Hps Round 2 1 RC": 22.048654317855835,
+        "RACE-DT Hps Round 2 2 RC": 44.55142307281494
+    },
+    "gearbox": {
+        "AENet Mel": 512.1324558258057,
+        "AENet MFCC": 501.0588095188141,
+        "E-CAE RC 1 RC": 23.65111255645752,
+        "E-CAE RC 2 RC": 54.29819369316101,
+        "RACE-DT Hps Round 2 1 RC": 23.17810440063477,
+        "RACE-DT Hps Round 2 2 RC": 43.63372540473938
+    },
+    "slider": {
+        "AENet Mel": 512.7578823566437,
+        "AENet MFCC": 500.2372245788574,
+        "E-CAE RC 1 RC": 30.161821842193604,
+        "E-CAE RC 2 RC": 40.71020150184631,
+        "RACE-DT Hps Round 2 1 RC": 22.454969882965088,
+        "RACE-DT Hps Round 2 2 RC": 45.52583384513855
+    },
+    "ToyCar": {
+        "AENet Mel": 614.7188274860382,
+        "AENet MFCC": 596.7033288478851,
+        "E-CAE RC 1 RC": 27.503280878067017,
+        "E-CAE RC 2 RC": 51.09314489364624,
+        "RACE-DT Hps Round 2 1 RC": 24.54420566558838,
+        "RACE-DT Hps Round 2 2 RC": 53.62235903739929
+    },
+    "bearing": {
+        "AENet Mel": 513.6965775489807,
+        "AENet MFCC": 496.62363934516907,
+        "E-CAE RC 1 RC": 22.2706470489502,
+        "E-CAE RC 2 RC": 39.475839138031006,
+        "RACE-DT Hps Round 2 1 RC": 20.8016619682312,
+        "RACE-DT Hps Round 2 2 RC": 46.38808727264404
+    },
+    "valve": {
+        "AENet Mel": 512.3840701580048,
+        "AENet MFCC": 499.6654682159424,
+        "E-CAE RC 1 RC": 21.327131509780884,
+        "E-CAE RC 2 RC": 43.57155966758729,
+        "RACE-DT Hps Round 2 1 RC": 20.536184787750244,
+        "RACE-DT Hps Round 2 2 RC": 71.43761730194092
+    },
+    "ToyTrain": {
+        "AENet Mel": 618.2237105369568,
+        "AENet MFCC": 598.8825912475586,
+        "E-CAE RC 1 RC": 43.271254539489746,
+        "E-CAE RC 2 RC": 51.29690909385681,
+        "RACE-DT Hps Round 2 1 RC": 27.51751708984375,
+        "RACE-DT Hps Round 2 2 RC": 78.18584609031677
+    },
+    "bandsaw": {
+        "AENet Mel": 511.0459384918213,
+        "AENet MFCC": 496.3235034942627,
+        "E-CAE RC 1 RC": 30.77839422225952,
+        "E-CAE RC 2 RC": 57.40387439727783,
+        "RACE-DT Hps Round 2 1 RC": 21.74459314346313,
+        "RACE-DT Hps Round 2 2 RC": 39.93684458732605
+    },
+    "grinder": {
+        "AENet Mel": 514.7766654491425,
+        "AENet MFCC": 499.0642321109772,
+        "E-CAE RC 1 RC": 23.239132404327393,
+        "E-CAE RC 2 RC": 55.989994525909424,
+        "RACE-DT Hps Round 2 1 RC": 20.650840520858765,
+        "RACE-DT Hps Round 2 2 RC": 62.20060324668884
+    },
+    "shaker": {
+        "AENet Mel": 516.096764087677,
+        "AENet MFCC": 505.55041670799255,
+        "E-CAE RC 1 RC": 21.242903709411625,
+        "E-CAE RC 2 RC": 53.161916971206665,
+        "RACE-DT Hps Round 2 1 RC": 23.161033153533936,
+        "RACE-DT Hps Round 2 2 RC": 45.00390529632568
+    },
+    "ToyDrone": {
+        "AENet Mel": 927.034040927887,
+        "AENet MFCC": 899.8535797595978,
+        "E-CAE RC 1 RC": 40.77358841896057,
+        "E-CAE RC 2 RC": 99.05136680603027,
+        "RACE-DT Hps Round 2 1 RC": 39.823339223861694,
+        "RACE-DT Hps Round 2 2 RC": 88.32025742530823
+    },
+    "ToyNscale": {
+        "AENet Mel": 304.6381447315216,
+        "AENet MFCC": 301.79601216316223,
+        "E-CAE RC 1 RC": 19.52990221977234,
+        "E-CAE RC 2 RC": 25.88061261177063,
+        "RACE-DT Hps Round 2 1 RC": 13.73610520362854,
+        "RACE-DT Hps Round 2 2 RC": 25.449689149856567
+    },
+    "ToyTank": {
+        "AENet Mel": 412.18312978744507,
+        "AENet MFCC": 400.5567569732666,
+        "E-CAE RC 1 RC": 18.097212076187134,
+        "E-CAE RC 2 RC": 33.97102475166321,
+        "RACE-DT Hps Round 2 1 RC": 19.249107360839844,
+        "RACE-DT Hps Round 2 2 RC": 33.845897912979126
+    },
+    "Vacuum": {
+        "AENet Mel": 776.0317039489746,
+        "AENet MFCC": 744.5446608066559,
+        "E-CAE RC 1 RC": 33.068766593933105,
+        "E-CAE RC 2 RC": 63.841468334198,
+        "RACE-DT Hps Round 2 1 RC": 34.16153931617737,
+        "RACE-DT Hps Round 2 2 RC": 60.79460954666138
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "fan": {
+        "AENet Mel": 4379462,
+        "AENet MFCC": 458870,
+        "E-CAE RC 1 RC": 60415,
+        "E-CAE RC 2 RC": 56767,
+        "RACE-DT Hps Round 2 1 RC": 151940,
+        "RACE-DT Hps Round 2 2 RC": 102996
+    },
+    "gearbox": {
+        "AENet Mel": 4379746,
+        "AENet MFCC": 459210,
+        "E-CAE RC 1 RC": 60471,
+        "E-CAE RC 2 RC": 60471,
+        "RACE-DT Hps Round 2 1 RC": 152468,
+        "RACE-DT Hps Round 2 2 RC": 152356
+    },
+    "slider": {
+        "AENet Mel": 4379675,
+        "AENet MFCC": 459141,
+        "E-CAE RC 1 RC": 60457,
+        "E-CAE RC 2 RC": 60457,
+        "RACE-DT Hps Round 2 1 RC": 154260,
+        "RACE-DT Hps Round 2 2 RC": 158516
+    },
+    "ToyCar": {
+        "AENet Mel": 4379675,
+        "AENet MFCC": 459141,
+        "E-CAE RC 1 RC": 51001,
+        "E-CAE RC 2 RC": 55177,
+        "RACE-DT Hps Round 2 1 RC": 149844,
+        "RACE-DT Hps Round 2 2 RC": 155508
+    },
+    "bearing": {
+        "AENet Mel": 4379746,
+        "AENet MFCC": 459210,
+        "E-CAE RC 1 RC": 50020,
+        "E-CAE RC 2 RC": 50564,
+        "RACE-DT Hps Round 2 1 RC": 152772,
+        "RACE-DT Hps Round 2 2 RC": 159572
+    },
+    "valve": {
+        "AENet Mel": 4379604,
+        "AENet MFCC": 459072,
+        "E-CAE RC 1 RC": 60443,
+        "E-CAE RC 2 RC": 75803,
+        "RACE-DT Hps Round 2 1 RC": 85588,
+        "RACE-DT Hps Round 2 2 RC": 839044
+    },
+    "ToyTrain": {
+        "AENet Mel": 4379817,
+        "AENet MFCC": 459279,
+        "E-CAE RC 1 RC": 75845,
+        "E-CAE RC 2 RC": 60485,
+        "RACE-DT Hps Round 2 1 RC": 81604,
+        "RACE-DT Hps Round 2 2 RC": 90420
+    },
+    "bandsaw": {
+        "AENet Mel": 4379746,
+        "AENet MFCC": 459210,
+        "E-CAE RC 1 RC": 51095,
+        "E-CAE RC 2 RC": 60471,
+        "RACE-DT Hps Round 2 1 RC": 147540,
+        "RACE-DT Hps Round 2 2 RC": 152164
+    },
+    "grinder": {
+        "AENet Mel": 4379746,
+        "AENet MFCC": 459210,
+        "E-CAE RC 1 RC": 60471,
+        "E-CAE RC 2 RC": 51591,
+        "RACE-DT Hps Round 2 1 RC": 148596,
+        "RACE-DT Hps Round 2 2 RC": 162916
+    },
+    "shaker": {
+        "AENet Mel": 4379675,
+        "AENet MFCC": 459141,
+        "E-CAE RC 1 RC": 60457,
+        "E-CAE RC 2 RC": 60457,
+        "RACE-DT Hps Round 2 1 RC": 148212,
+        "RACE-DT Hps Round 2 2 RC": 153924
+    },
+    "ToyDrone": {
+        "AENet Mel": 4379817,
+        "AENet MFCC": 459279,
+        "E-CAE RC 1 RC": 60485,
+        "E-CAE RC 2 RC": 51717,
+        "RACE-DT Hps Round 2 1 RC": 154068,
+        "RACE-DT Hps Round 2 2 RC": 87108
+    },
+    "ToyNscale": {
+        "AENet Mel": 4379888,
+        "AENet MFCC": 459348,
+        "E-CAE RC 1 RC": 60499,
+        "E-CAE RC 2 RC": 49776,
+        "RACE-DT Hps Round 2 1 RC": 149844,
+        "RACE-DT Hps Round 2 2 RC": 154180
+    },
+    "ToyTank": {
+        "AENet Mel": 4379746,
+        "AENet MFCC": 459210,
+        "E-CAE RC 1 RC": 75831,
+        "E-CAE RC 2 RC": 60471,
+        "RACE-DT Hps Round 2 1 RC": 153076,
+        "RACE-DT Hps Round 2 2 RC": 151636
+    },
+    "Vacuum": {
+        "AENet Mel": 4379675,
+        "AENet MFCC": 459141,
+        "E-CAE RC 1 RC": 60457,
+        "E-CAE RC 2 RC": 60457,
+        "RACE-DT Hps Round 2 1 RC": 158932,
+        "RACE-DT Hps Round 2 2 RC": 154564
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "bandsaw": {
+        "AENet Mel": 0.5215000000000001,
+        "AENet MFCC": 0.52,
+        "E-CAE RC 1 RC": 0.4905,
+        "E-CAE RC 2 RC": 0.482,
+        "RACE-DT Hps Round 1 1 RC": 0.4775,
+        "RACE-DT Hps Round 1 2 RC": 0.479,
+        "RACE-DT Hps Round 2 1 RC": 0.4945,
+        "RACE-DT Hps Round 2 2 RC": 0.529
+    },
+    "bearing": {
+        "AENet Mel": 0.552,
+        "AENet MFCC": 0.6145,
+        "E-CAE RC 1 RC": 0.4545,
+        "E-CAE RC 2 RC": 0.47150000000000003,
+        "RACE-DT Hps Round 1 1 RC": 0.5840000000000001,
+        "RACE-DT Hps Round 1 2 RC": 0.5780000000000001,
+        "RACE-DT Hps Round 2 1 RC": 0.5965,
+        "RACE-DT Hps Round 2 2 RC": 0.6085
+    },
+    "fan": {
+        "AENet Mel": 0.6225,
+        "AENet MFCC": 0.5605,
+        "E-CAE RC 1 RC": 0.5235000000000001,
+        "E-CAE RC 2 RC": 0.5,
+        "RACE-DT Hps Round 1 1 RC": 0.616,
+        "RACE-DT Hps Round 1 2 RC": 0.5780000000000001,
+        "RACE-DT Hps Round 2 1 RC": 0.6415,
+        "RACE-DT Hps Round 2 2 RC": 0.593
+    },
+    "gearbox": {
+        "AENet Mel": 0.5305,
+        "AENet MFCC": 0.612,
+        "E-CAE RC 1 RC": 0.5665,
+        "E-CAE RC 2 RC": 0.5515,
+        "RACE-DT Hps Round 1 1 RC": 0.5409999999999999,
+        "RACE-DT Hps Round 1 2 RC": 0.5275000000000001,
+        "RACE-DT Hps Round 2 1 RC": 0.5865,
+        "RACE-DT Hps Round 2 2 RC": 0.5675
+    },
+    "grinder": {
+        "AENet Mel": 0.517,
+        "AENet MFCC": 0.618,
+        "E-CAE RC 1 RC": 0.605,
+        "E-CAE RC 2 RC": 0.5535,
+        "RACE-DT Hps Round 1 1 RC": 0.552,
+        "RACE-DT Hps Round 1 2 RC": 0.6134999999999999,
+        "RACE-DT Hps Round 2 1 RC": 0.6325000000000001,
+        "RACE-DT Hps Round 2 2 RC": 0.6425000000000001
+    },
+    "shaker": {
+        "AENet Mel": 0.4995,
+        "AENet MFCC": 0.575,
+        "E-CAE RC 1 RC": 0.47,
+        "E-CAE RC 2 RC": 0.4895,
+        "RACE-DT Hps Round 1 1 RC": 0.5045,
+        "RACE-DT Hps Round 1 2 RC": 0.523,
+        "RACE-DT Hps Round 2 1 RC": 0.51,
+        "RACE-DT Hps Round 2 2 RC": 0.5549999999999999
+    },
+    "slider": {
+        "AENet Mel": 0.516,
+        "AENet MFCC": 0.638,
+        "E-CAE RC 1 RC": 0.5435,
+        "E-CAE RC 2 RC": 0.528,
+        "RACE-DT Hps Round 1 1 RC": 0.632,
+        "RACE-DT Hps Round 1 2 RC": 0.542,
+        "RACE-DT Hps Round 2 1 RC": 0.716,
+        "RACE-DT Hps Round 2 2 RC": 0.6705
+    },
+    "ToyCar": {
+        "AENet Mel": 0.5325,
+        "AENet MFCC": 0.5395,
+        "E-CAE RC 1 RC": 0.489,
+        "E-CAE RC 2 RC": 0.475,
+        "RACE-DT Hps Round 1 1 RC": 0.505,
+        "RACE-DT Hps Round 1 2 RC": 0.516,
+        "RACE-DT Hps Round 2 1 RC": 0.5468,
+        "RACE-DT Hps Round 2 2 RC": 0.5215000000000001
+    },
+    "ToyDrone": {
+        "AENet Mel": 0.508,
+        "AENet MFCC": 0.517,
+        "E-CAE RC 1 RC": 0.5155000000000001,
+        "E-CAE RC 2 RC": 0.52,
+        "RACE-DT Hps Round 1 1 RC": 0.488,
+        "RACE-DT Hps Round 1 2 RC": 0.492,
+        "RACE-DT Hps Round 2 1 RC": 0.524,
+        "RACE-DT Hps Round 2 2 RC": 0.5215000000000001
+    },
+    "ToyNscale": {
+        "AENet Mel": 0.5640000000000001,
+        "AENet MFCC": 0.5820000000000001,
+        "E-CAE RC 1 RC": 0.47950000000000004,
+        "E-CAE RC 2 RC": 0.505,
+        "RACE-DT Hps Round 1 1 RC": 0.55,
+        "RACE-DT Hps Round 1 2 RC": 0.515,
+        "RACE-DT Hps Round 2 1 RC": 0.603,
+        "RACE-DT Hps Round 2 2 RC": 0.563
+    },
+    "ToyTank": {
+        "AENet Mel": 0.533,
+        "AENet MFCC": 0.6140000000000001,
+        "E-CAE RC 1 RC": 0.5103500000000001,
+        "E-CAE RC 2 RC": 0.552,
+        "RACE-DT Hps Round 1 1 RC": 0.5155000000000001,
+        "RACE-DT Hps Round 1 2 RC": 0.563,
+        "RACE-DT Hps Round 2 1 RC": 0.5565,
+        "RACE-DT Hps Round 2 2 RC": 0.5965
+    },
+    "ToyTrain": {
+        "AENet Mel": 0.5115000000000001,
+        "AENet MFCC": 0.506,
+        "E-CAE RC 1 RC": 0.5045,
+        "E-CAE RC 2 RC": 0.491,
+        "RACE-DT Hps Round 1 1 RC": 0.4875,
+        "RACE-DT Hps Round 1 2 RC": 0.475,
+        "RACE-DT Hps Round 2 1 RC": 0.5,
+        "RACE-DT Hps Round 2 2 RC": 0.522
+    },
+    "Vacuum": {
+        "AENet Mel": 0.521,
+        "AENet MFCC": 0.614,
+        "E-CAE RC 1 RC": 0.539,
+        "E-CAE RC 2 RC": 0.539,
+        "RACE-DT Hps Round 1 1 RC": 0.656,
+        "RACE-DT Hps Round 1 2 RC": 0.5405,
+        "RACE-DT Hps Round 2 1 RC": 0.6795,
+        "RACE-DT Hps Round 2 2 RC": 0.7255
+    },
+    "valve": {
+        "AENet Mel": 0.4495,
+        "AENet MFCC": 0.512,
+        "E-CAE RC 1 RC": 0.504,
+        "E-CAE RC 2 RC": 0.5085,
+        "RACE-DT Hps Round 1 1 RC": 0.502,
+        "RACE-DT Hps Round 1 2 RC": 0.505,
+        "RACE-DT Hps Round 2 1 RC": 0.527,
+        "RACE-DT Hps Round 2 2 RC": 0.5095000000000001
+    }
+}
