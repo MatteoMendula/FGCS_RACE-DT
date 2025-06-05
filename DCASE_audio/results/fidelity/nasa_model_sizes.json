@@ -1,0 +1,30 @@
+{
+    "S1": {
+        "DeepLSTM": 1300291,
+        "E-CAE RC 1 RC": 173403,
+        "E-CAE RC 2 RC": 175417,
+        "RACE-DT Hps Round 2 1 RC": 143495,
+        "RACE-DT Hps Round 2 2 RC": 153497
+    },
+    "S2": {
+        "DeepLSTM": 1267523,
+        "E-CAE RC 1 RC": 166792,
+        "E-CAE RC 2 RC": 164471,
+        "RACE-DT Hps Round 2 1 RC": 135438,
+        "RACE-DT Hps Round 2 2 RC": 138857
+    },
+    "S3": {
+        "DeepLSTM": 1288003,
+        "E-CAE RC 1 RC": 169706,
+        "E-CAE RC 2 RC": 246846,
+        "RACE-DT Hps Round 2 1 RC": 145394,
+        "RACE-DT Hps Round 2 2 RC": 141480
+    },
+    "S4": {
+        "DeepLSTM": 1267523,
+        "E-CAE RC 1 RC": 166716,
+        "E-CAE RC 2 RC": 227701,
+        "RACE-DT Hps Round 2 1 RC": 137831,
+        "RACE-DT Hps Round 2 2 RC": 142126
+    }
+}
