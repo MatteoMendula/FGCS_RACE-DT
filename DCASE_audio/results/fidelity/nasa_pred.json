@@ -1,0 +1,42 @@
+{
+    "S1": {
+        "avg_pred_time_lstm_gpu": 0.0012357234954833984,
+        "avg_pred_time_lstm_cpu": 0.002107858657836914,
+        "avg_pred_time_ecae_1layers_mlp": 0.00017142295837402344,
+        "avg_pred_time_ecae_2layers_mlp": 0.00016736984252929688,
+        "avg_pred_time_ecae_1layers_ae": 0.021561861038208008,
+        "avg_pred_time_ecae_2layers_ae": 0.023036718368530273,
+        "avg_pred_time_race_step2_1layers": 0.0013539791107177734,
+        "avg_pred_time_race_step2_2layers": 0.0005211830139160156
+    },
+    "S2": {
+        "avg_pred_time_lstm_gpu": 0.002611875534057617,
+        "avg_pred_time_lstm_cpu": 0.0030775070190429688,
+        "avg_pred_time_ecae_1layers_mlp": 0.0003275871276855469,
+        "avg_pred_time_ecae_2layers_mlp": 0.0036773681640625,
+        "avg_pred_time_ecae_1layers_ae": 0.05617880821228027,
+        "avg_pred_time_ecae_2layers_ae": 0.054230451583862305,
+        "avg_pred_time_race_step2_1layers": 0.0007369518280029297,
+        "avg_pred_time_race_step2_2layers": 0.00035834312438964844
+    },
+    "S3": {
+        "avg_pred_time_lstm_gpu": 0.0012369155883789062,
+        "avg_pred_time_lstm_cpu": 0.0021200180053710938,
+        "avg_pred_time_ecae_1layers_mlp": 0.00016546249389648438,
+        "avg_pred_time_ecae_2layers_mlp": 0.00023102760314941406,
+        "avg_pred_time_ecae_1layers_ae": 0.021709203720092773,
+        "avg_pred_time_ecae_2layers_ae": 0.021299123764038086,
+        "avg_pred_time_race_step2_1layers": 0.0032684803009033203,
+        "avg_pred_time_race_step2_2layers": 0.00022292137145996094
+    },
+    "S4": {
+        "avg_pred_time_lstm_gpu": 0.002549886703491211,
+        "avg_pred_time_lstm_cpu": 0.0034170150756835938,
+        "avg_pred_time_ecae_1layers_mlp": 0.002109527587890625,
+        "avg_pred_time_ecae_2layers_mlp": 0.0006344318389892578,
+        "avg_pred_time_ecae_1layers_ae": 0.05262351036071777,
+        "avg_pred_time_ecae_2layers_ae": 0.05227851867675781,
+        "avg_pred_time_race_step2_1layers": 0.0005071163177490234,
+        "avg_pred_time_race_step2_2layers": 0.0012102127075195312
+    }
+}

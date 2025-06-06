@@ -1,0 +1,42 @@
+{
+    "S1": {
+        "avg_train_time_lstm_gpu": 81.51510167121887,
+        "avg_train_time_lstm_cpu": 162.24001455307007,
+        "avg_train_time_ecae_1layers_mlp": 17.335265159606934,
+        "avg_train_time_ecae_2layers_mlp": 23.41421604156494,
+        "avg_train_time_ecae_1layers_ae": 33.382349252700806,
+        "avg_train_time_ecae_2layers_ae": 32.909140825271606,
+        "avg_train_time_race_step2_1layers": 39.345261335372925,
+        "avg_train_time_race_step2_2layers": 77.58778548240662
+    },
+    "S2": {
+        "avg_train_time_lstm_gpu": 111.36108088493347,
+        "avg_train_time_lstm_cpu": 171.70631980895996,
+        "avg_train_time_ecae_1layers_mlp": 91.22264099121094,
+        "avg_train_time_ecae_2layers_mlp": 73.78708481788635,
+        "avg_train_time_ecae_1layers_ae": 85.27742528915405,
+        "avg_train_time_ecae_2layers_ae": 83.77205348014832,
+        "avg_train_time_race_step2_1layers": 18.717758417129517,
+        "avg_train_time_race_step2_2layers": 54.26797127723694
+    },
+    "S3": {
+        "avg_train_time_lstm_gpu": 66.63006281852722,
+        "avg_train_time_lstm_cpu": 141.179621219635,
+        "avg_train_time_ecae_1layers_mlp": 23.536505222320557,
+        "avg_train_time_ecae_2layers_mlp": 73.25470685958862,
+        "avg_train_time_ecae_1layers_ae": 39.125696420669556,
+        "avg_train_time_ecae_2layers_ae": 40.096118688583374,
+        "avg_train_time_race_step2_1layers": 57.39916682243347,
+        "avg_train_time_race_step2_2layers": 36.12317180633545
+    },
+    "S4": {
+        "avg_train_time_lstm_gpu": 182.88742017745972,
+        "avg_train_time_lstm_cpu": 381.587384223938,
+        "avg_train_time_ecae_1layers_mlp": 103.58610081672668,
+        "avg_train_time_ecae_2layers_mlp": 41.445271730422974,
+        "avg_train_time_ecae_1layers_ae": 97.13251972198486,
+        "avg_train_time_ecae_2layers_ae": 97.2655098438263,
+        "avg_train_time_race_step2_1layers": 48.571356534957886,
+        "avg_train_time_race_step2_2layers": 99.46831011772156
+    }
+}

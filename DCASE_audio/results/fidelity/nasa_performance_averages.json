@@ -1,0 +1,30 @@
+{
+    "S1": {
+        "lstm_gpu": 0.768,
+        "ecae_1layers": 0.714,
+        "ecae_2layers": 0.673,
+        "race_step2_1layers": 0.781,
+        "race_step2_2layers": 0.727
+    },
+    "S2": {
+        "lstm_gpu": 0.537,
+        "ecae_1layers": 0.403,
+        "ecae_2layers": 0.247,
+        "race_step2_1layers": 0.522,
+        "race_step2_2layers": 0.494
+    },
+    "S3": {
+        "lstm_gpu": 0.806,
+        "ecae_1layers": 0.635,
+        "ecae_2layers": 0.481,
+        "race_step2_1layers": 0.784,
+        "race_step2_2layers": 0.758
+    },
+    "S4": {
+        "lstm_gpu": 0.29,
+        "ecae_1layers": 0.259,
+        "ecae_2layers": 0.253,
+        "race_step2_1layers": 0.266,
+        "race_step2_2layers": 0.302
+    }
+}
